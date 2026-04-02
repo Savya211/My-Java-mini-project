@@ -1,0 +1,12 @@
+========================================
+      Port Scan Report
+========================================
+Target IP: 192.168.1.1
+Ports Scanned: 3 (custom list)
+Scan Duration: 226 ms
+Open Ports Found: 1
+----------------------------------------
+
+Port 22    is OPEN - Service: SSH (Secure Shell)
+
+========================================
